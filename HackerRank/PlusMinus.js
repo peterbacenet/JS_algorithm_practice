@@ -32,7 +32,6 @@ for (let i = 0; i < n; i++){
         zeroes++
     }  
 }
-
 // prints decimal notation of fractions to the 6th place
 console.log(positives/n.toFixed(6))
 console.log(negatives/n.toFixed(6))
